@@ -207,7 +207,6 @@ public:
 };
 
 
->>>>>>> upstream/master
 
 int main() {
     list <int> a
